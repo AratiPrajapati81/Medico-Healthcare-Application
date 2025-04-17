@@ -31,7 +31,8 @@ Use below credentials for Client login to see patient records
    Password  : Client@123
 
 # Screenshots 
-<img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420> <img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/clients.jpg" height = 420>
+<img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420> \n
+<img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/client.jpg" height = 420>
 
 
 # Need help?
