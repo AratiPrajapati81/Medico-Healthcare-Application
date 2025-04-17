@@ -43,7 +43,7 @@ Use below credentials for Client login to see patient records
 
 Login and registration | Home | Home Insider
 :------------------:|:-------------------:|:-------------------:
-![Login and registration - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Media/home.jpg) | ![Laws - screenshot](Media/Laws.jpeg) 
+![Login and registration - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![Laws - screenshot](Media/Laws.jpeg) 
 
 Doctor details | Book appointment | Order details | client 
 :------------------:|:-------------------:|:-------------------:
