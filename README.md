@@ -30,9 +30,24 @@ Use below credentials for Client login to see patient records
    Username  : Client\
    Password  : Client@123
 
+
+# Prerequisites :
+- Android Studio
+- Java
+- XML
+
+
 # Screenshots 
 <img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider.jpg" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420>
 <img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/client.jpg" height = 420>
+
+Login and registration | Home | Home Insider
+:------------------:|:-------------------:|:-------------------:
+![Login and registration - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Media/home.jpg) | ![Laws - screenshot](Media/Laws.jpeg) 
+
+Doctor details | Book appointment | Order details | client 
+:------------------:|:-------------------:|:-------------------:
+![LawDisp - screenshot](Media/DisplayLaw.jpeg) | ![Contacts Adapt - screenshot](Media/AddContacts.jpeg) | ![self defense - screenshot](Media/SelfDefense.jpeg)
 
 
 # Need help?
