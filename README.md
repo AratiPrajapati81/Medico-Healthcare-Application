@@ -43,13 +43,9 @@ Use below credentials for Client login to see patient records
 
 Login and registration | Home | Home Insider
 :------------------:|:-------------------:|:-------------------:
-![Login and registration - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
+![Login and registration - Screenshots](<img src= "Screenshots/login&registration.jpg" height=420>) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
 
 
-
-Login and registration | Home | Home Insider
-:------------------:|:-------------------:|:-------------------:
-![Login and registration - Screenshots](<img src="Screenshots/login&registration.jpg" height = 420>) | ![Home - Screenshots](<img src="Screenshots/home.jpg" height = 420>) | ![ Home Insider - Screenshots]( <img src="Screenshots/Home_insider.jpg" height = 420>) 
 
 
 
