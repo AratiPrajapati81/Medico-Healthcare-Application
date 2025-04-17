@@ -30,5 +30,10 @@ Use below credentials for Client login to see patient records
    Username  : Client\
    Password  : Client@123
 
+# Screenshots 
+(Screenshots/login&registration.jpg)
+<img src="images/app_screenshot.png" width="300"/>
+
+
 # Need help?
 If you have any issues please send us mail at prajapatiarati349@gmail.com more than happy to help you in understanding and installing.
