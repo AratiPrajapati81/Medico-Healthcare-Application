@@ -43,7 +43,7 @@ Use below credentials for Client login to see patient records
 
 Login | Home | Insider
 :------------------:|:-------------------:|:-------------------:
-![Login - Screenshots](<img src= "Screenshots/login&registration.jpg" height=420>) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
+![Login - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
 
 
 
