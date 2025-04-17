@@ -45,6 +45,15 @@ Login and registration | Home | Home Insider
 :------------------:|:-------------------:|:-------------------:
 ![Login and registration - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
 
+
+
+Login and registration | Home | Home Insider
+:------------------:|:-------------------:|:-------------------:
+![Login and registration - Screenshots](<img src="Screenshots/login&registration.jpg" height = 420>) | ![Home - Screenshots](<img src="Screenshots/home.jpg" height = 420>) | ![ Home Insider - Screenshots]( <img src="Screenshots/Home_insider.jpg" height = 420>) 
+
+
+
+
 Doctor details | Book appointment | Order details | client 
 :------------------:|:-------------------:|:-------------------:
 ![LawDisp - screenshot](Media/DisplayLaw.jpeg) | ![Contacts Adapt - screenshot](Media/AddContacts.jpeg) | ![self defense - screenshot](Media/SelfDefense.jpeg)
