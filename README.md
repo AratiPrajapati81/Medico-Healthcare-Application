@@ -41,9 +41,9 @@ Use below credentials for Client login to see patient records
 <img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider.jpg" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420>
 <img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/client.jpg" height = 420>
 
-Login and registration | Home | Home Insider
+Login | Home | Insider
 :------------------:|:-------------------:|:-------------------:
-![Login and registration - Screenshots](<img src= "Screenshots/login&registration.jpg" height=420>) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
+![Login - Screenshots](<img src= "Screenshots/login&registration.jpg" height=420>) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
 
 
 
