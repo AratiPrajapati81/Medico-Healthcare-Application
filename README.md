@@ -41,13 +41,13 @@ Use below credentials for Client login to see patient records
 <img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider.jpg" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420>
 <img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/client.jpg" height = 420>
 
-Login and registration | Home | Home Insider
-:------------------:|:-------------------:|:-------------------:
-![Login - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) 
+Login and registration | Home activity | Home Insider | Doctor details
+:------------------:|:-------------------:|:-------------------: |:-------------------:
+![Login - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) | ![ Doctor details - Screenshots](Screenshots/Screenshots/doctorDetails.jpg) 
 
-Doctor details | Book appointment | Order details | client 
+Book appointment | Order details | client activity
 :------------------:|:-------------------:|:-------------------:
-![LawDisp - screenshot](Media/DisplayLaw.jpeg) | ![Contacts Adapt - screenshot](Media/AddContacts.jpeg) | ![self defense - screenshot](Media/SelfDefense.jpeg)
+![Book appointment - Screenshots](Screenshots/bookAppointment.jpg) | ![Order details - Screenshots](Screenshots/orderDetails.jpg) | ![client activity - Screenshots](Screenshots/client.jpg)
 
 
 # Need help?
