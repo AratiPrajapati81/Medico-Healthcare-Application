@@ -36,12 +36,7 @@ Use below credentials for Client login to see patient records
 - Java
 - XML
 
-
-# Screenshots 
-<img src="Screenshots/login&registration.jpg" height = 420>  <img src="Screenshots/home.jpg" height = 420>  <img src="Screenshots/Home_insider.jpg" height = 420> <img src="Screenshots/doctorDetails.jpg" height = 420>
-<img src="Screenshots/bookAppointment.jpg" height = 420> <img src="Screenshots/orderDetails.jpg" height = 420> <img src="Screenshots/client.jpg" height = 420>
-
-Login and registration | Home activity | Home Insider | Doctor details
+Login & registration | Home activity | Home Insider | Doctor Details
 :------------------:|:-------------------:|:-------------------: |:-------------------:
 ![Login - Screenshots](Screenshots/login&registration.jpg) | ![Home - Screenshots](Screenshots/home.jpg) | ![ Home Insider - Screenshots](Screenshots/Home_insider.jpg) | ![ Doctor details - Screenshots](Screenshots/doctorDetails.jpg) 
 
