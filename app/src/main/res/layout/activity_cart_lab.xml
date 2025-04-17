@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".CartLabActivity">
+
+    <TextView
+        android:id="@+id/textViewBMCartTotalCost"
+        android:layout_width="241dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="24dp"
+        android:text="TOTAL COST : 2000/-"
+        android:textStyle="bold"
+        android:textColor="@color/yellowLight"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listViewBMCart" />
+
+    <Button
+        android:id="@+id/buttonCartTime"
+        style="?android:spinnerStyle"
+        android:layout_width="167dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="28dp"
+        android:text="10:00"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.978"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="122dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="52dp"
+        android:text="Select Time"
+        android:textColor="@color/yellowLight"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.878"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textViewBMCartTotalCost" />
+
+    <Button
+        android:id="@+id/buttonBMCartCheckout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="CHECKOUT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.176"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewBMCartTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lab Test and Packages"
+        android:textColor="@color/yellowLight"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_logo7"
+        app:layout_constraintVertical_bias="0.066" />
+
+    <TextView
+        android:id="@+id/textView_logo7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="24 * 7 Healthcare"
+        android:textColor="@color/purple_200"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.021" />
+
+    <TextView
+        android:id="@+id/textView_ODTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deliver Location: Pune"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_logo7"
+        app:layout_constraintVertical_bias="0.015" />
+
+    <ListView
+        android:id="@+id/listViewBMCart"
+        android:layout_width="402dp"
+        android:layout_height="401dp"
+        android:layout_margin="10dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_ODTitle"
+        app:layout_constraintVertical_bias="0.163" />
+
+
+    <Button
+        android:id="@+id/buttonBMCartBack"
+        android:layout_width="141dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="4dp"
+        android:text="BACK"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.871"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="138dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="52dp"
+        android:text="Select Date"
+        android:textColor="@color/yellowLight"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.128"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textViewBMCartTotalCost" />
+
+    <Button
+        android:id="@+id/buttonBMCartDate"
+        style="?android:spinnerStyle"
+        android:layout_width="167dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:text="23/02/2025"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView3" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
