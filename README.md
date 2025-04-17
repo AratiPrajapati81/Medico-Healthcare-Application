@@ -31,7 +31,7 @@ Use below credentials for Client login to see patient records
    Password  : Client@123
 
 # Screenshots 
-(Screenshots/login&registration.jpg)
+[Screenshots/login&registration.jpg](https://github.com/AratiPrajapati81/Medico-Healthcare-Application/blob/b02be4841e08a953abb94425ce647db6fb01c222/Screenshots/login%26registration.jpg)
 <img src="images/app_screenshot.png" width="300"/>
 
 
